@@ -1,0 +1,486 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (1:11 PM EST),period,start,1,0,1
+4,PT12M00.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Jump Ball Queta vs. Bona: Tip to Edgecombe,Jump Ball,,1,0,2
+7,PT11M48.00S,1,1610612755,PHI,202331,George,P. George,123,234,26,Missed,1,,,0,v,MISS George 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+8,PT11M47.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+9,PT11M38.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona S.FOUL (P1.T1) (S.Foster),Foul,Shooting,1,0,5
+11,PT11M38.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,1,0,1,h,Queta Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,6
+12,PT11M38.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,MISS Queta Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,7
+13,PT11M38.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+14,PT11M24.00S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-227,17,0,Missed,1,,,0,v,MISS Edgecombe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,9
+15,PT11M23.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,10
+16,PT11M15.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,9,258,26,Made,1,4,0,4,h,Hauser 26' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,1,3,11
+18,PT10M57.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-55,251,26,Made,1,4,3,7,v,Maxey 26' 3PT Step Back Bank Jump Shot (3 PTS),Made Shot,Step Back Bank Jump Shot,1,3,12
+19,PT10M29.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-16,38,4,Missed,1,,,0,h,MISS Brown 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,13
+20,PT10M28.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+21,PT10M23.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona Offensive Charge Foul (P2) (S.Foster),Foul,Offensive Charge,1,0,15
+23,PT10M23.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,16
+24,PT10M23.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,SUB: Drummond FOR Bona,Substitution,,0,0,17
+26,PT10M09.00S,1,1610612738,BOS,1629674,Queta,N. Queta,-5,13,1,Made,1,6,3,9,h,Queta 1' Cutting Dunk Shot (3 PTS) (Tatum 1 AST),Made Shot,Cutting Dunk Shot,1,2,18
+28,PT09M55.00S,1,1610612755,PHI,202331,George,P. George,-3,54,5,Made,1,6,5,11,v,George 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,19
+29,PT09M55.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta S.FOUL (P1.T1) (S.Foster),Foul,Shooting,1,0,20
+31,PT09M55.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,6,6,12,v,George Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,21
+32,PT09M45.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,22
+32,PT09M45.00S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe STEAL (1 STL),,,1,0,23
+34,PT09M44.00S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,24
+34,PT09M44.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum STEAL (1 STL),,,1,0,25
+36,PT09M36.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-115,111,16,Made,1,8,6,14,h,Tatum 16' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,26
+37,PT09M23.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,27
+38,PT09M06.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,85,78,12,Missed,1,,,0,h,MISS Tatum 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,28
+39,PT09M05.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+40,PT08M56.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-154,206,26,Missed,1,,,0,v,MISS Maxey 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,30
+41,PT08M55.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,31
+56,PT08M48.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,32
+56,PT08M48.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond STEAL (1 STL),,,1,0,33
+45,PT08M39.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,0,34
+47,PT08M39.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,MISS Maxey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,35
+48,PT08M39.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0,36
+49,PT08M39.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,SUB: Vucevic FOR Queta,Substitution,,0,0,37
+51,PT08M39.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,8,7,15,v,Maxey Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,38
+52,PT08M25.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,173,183,25,Made,1,11,7,18,h,Hauser 25' 3PT Pullup Jump Shot (6 PTS) (Tatum 2 AST),Made Shot,Pullup Jump shot,1,3,39
+54,PT08M12.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-129,53,14,Missed,1,,,0,v,MISS Maxey 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,40
+55,PT08M10.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+58,PT07M56.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-69,52,9,Missed,1,,,0,h,MISS Brown 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,42
+59,PT07M55.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,43
+60,PT07M55.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond L.B.FOUL (P1.T2) (P.Fraher),Foul,Loose Ball,1,0,44
+62,PT07M53.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-173,12,17,Made,1,13,7,20,h,Brown 17' Turnaround Fadeaway (2 PTS) (Tatum 3 AST),Made Shot,Turnaround Fadeaway shot,1,2,45
+64,PT07M29.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,46
+64,PT07M29.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown STEAL (1 STL),,,1,0,47
+66,PT07M24.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,10,17,2,Made,1,15,7,22,h,Tatum 2' Running Layup (4 PTS) (White 1 AST),Made Shot,Running Layup Shot,1,2,48
+68,PT07M24.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,49
+69,PT07M11.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-229,46,0,Missed,1,,,0,v,MISS Oubre Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,50
+70,PT07M10.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,51
+71,PT06M53.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-108,123,16,Made,1,17,7,24,h,Tatum 16' Turnaround Fadeaway (6 PTS) (Hauser 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,52
+73,PT06M28.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,15,1,2,Made,1,17,9,26,v,Maxey 2' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,1,2,53
+74,PT06M19.00S,1,1610612738,BOS,1628401,White,D. White,-165,210,27,Made,1,20,9,29,h,White 27' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),Made Shot,Jump Shot,1,3,54
+76,PT06M02.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-80,58,10,Missed,1,,,0,v,MISS Maxey 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,55
+77,PT06M00.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,56
+78,PT05M50.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-65,12,7,Missed,1,,,0,h,MISS Brown 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,57
+78,PT05M50.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond BLOCK (1 BLK),,,1,2,58
+79,PT05M49.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,59
+80,PT05M44.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,232,24,0,Missed,1,,,0,v,MISS Oubre Jr. 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,60
+81,PT05M41.00S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,61
+82,PT05M35.00S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,233,37,24,Missed,1,,,0,v,MISS Edgecombe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+83,PT05M32.00S,1,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+84,PT05M21.00S,1,1610612738,BOS,1627759,Brown,J. Brown,10,10,1,Made,1,22,9,31,h,Brown 1' Driving Layup (4 PTS) (White 2 AST),Made Shot,Driving Layup Shot,1,2,64
+86,PT05M04.00S,1,1610612755,PHI,202331,George,P. George,-70,122,14,Made,1,22,11,33,v,George 14' Fadeaway Jumper (5 PTS) (Drummond 1 AST),Made Shot,Fadeaway Jump Shot,1,2,65
+88,PT04M50.00S,1,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic OFF.Foul (P1) (P.Fraher),Foul,Offensive,1,0,66
+90,PT04M50.00S,1,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,67
+91,PT04M50.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,SUB: Pritchard FOR Hauser,Substitution,,0,0,68
+92,PT04M50.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,SUB: Grimes FOR Oubre Jr.,Substitution,,0,0,69
+93,PT04M50.00S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,SUB: Barlow FOR Edgecombe,Substitution,,0,0,70
+97,PT04M42.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown P.FOUL (P1.T3) (T.Maddox),Foul,Personal,1,0,71
+99,PT04M39.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond OFF.Foul (P2) (S.Foster),Foul,Offensive,1,0,72
+101,PT04M39.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,73
+105,PT04M39.00S,1,0,,99,,,0,0,0,,0,22,11,33,,Instant Replay1st Period (1:28 PM EST),Instant Replay,Support Ruling,0,0,74
+106,PT04M39.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR Drummond,Substitution,,0,0,75
+108,PT04M23.00S,1,1610612738,BOS,1628401,White,D. White,120,228,26,Missed,1,,,0,h,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+109,PT04M20.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,77
+111,PT04M15.00S,1,1610612738,BOS,1627759,Brown,J. Brown,23,15,3,Missed,1,,,0,h,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,78
+112,PT04M14.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+113,PT04M06.00S,1,1610612755,PHI,1631230,Barlow,D. Barlow,39,0,4,Missed,1,,,0,v,MISS Barlow 4' Running Layup,Missed Shot,Running Layup Shot,1,2,80
+114,PT04M05.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,81
+115,PT03M56.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-99,274,29,Missed,1,,,0,h,MISS Tatum 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,82
+116,PT03M55.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,83
+117,PT03M49.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,2,1,0,Made,1,22,13,35,v,Maxey Running Finger Roll Layup (8 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,84
+118,PT03M49.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White S.FOUL (P1.T4) (S.Foster),Foul,Shooting,1,0,85
+120,PT03M49.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Walsh FOR Brown,Substitution,,0,0,86
+122,PT03M49.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,22,14,36,v,Maxey Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,87
+123,PT03M35.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,36,16,4,Made,1,24,14,38,h,Pritchard 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,88
+124,PT03M17.00S,1,1610612755,PHI,202331,George,P. George,85,79,12,Missed,1,,,0,v,MISS George 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,89
+125,PT03M16.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,90
+126,PT03M04.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,181,168,25,Missed,1,,,0,h,MISS Pritchard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,91
+127,PT03M02.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,92
+128,PT02M50.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,51,56,8,Missed,1,,,0,v,MISS Maxey 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,93
+129,PT02M48.00S,1,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,94
+130,PT02M39.00S,1,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic S.FOUL (P2.PN) (P.Fraher),Foul,Shooting,1,0,95
+132,PT02M39.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,96
+133,PT02M39.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,SUB: Edwards FOR George,Substitution,,0,0,97
+135,PT02M39.00S,1,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,24,15,39,v,Barlow Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,98
+136,PT02M39.00S,1,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,24,16,40,v,Barlow Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,99
+138,PT02M18.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,107,-6,11,Missed,1,,,0,h,MISS Pritchard 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,100
+139,PT02M17.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,101
+141,PT02M04.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-28,154,16,Made,1,26,16,42,h,Tatum 16' Pullup Jump Shot (8 PTS) (Vucevic 2 AST),Made Shot,Pullup Jump shot,1,2,102
+143,PT01M43.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,9,32,3,Made,1,26,18,44,v,Oubre Jr. 3' Driving Dunk (2 PTS) (Maxey 1 AST),Made Shot,Driving Dunk Shot,1,2,103
+146,PT01M19.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,-29,277,28,Made,1,29,18,47,h,Pritchard 28' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,104
+147,PT01M02.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,120,225,26,Missed,1,,,0,v,MISS Maxey 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,105
+148,PT00M59.00S,1,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,106
+149,PT00M51.80S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-9,5,1,Made,1,31,18,49,h,Tatum 1' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,1,2,107
+150,PT00M39.70S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-31,59,7,Missed,1,,,0,v,MISS Maxey 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,108
+151,PT00M38.30S,1,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,109
+152,PT00M38.30S,1,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,Missed,1,,,0,v,MISS Barlow Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,110
+153,PT00M36.80S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,111
+154,PT00M31.80S,1,1610612738,BOS,1628401,White,D. White,-151,230,28,Missed,1,,,0,h,MISS White 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,112
+155,PT00M29.40S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,113
+156,PT00M27.30S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,114
+157,PT00M27.30S,1,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,SUB: Brown FOR Vucevic,Substitution,,0,0,115
+158,PT00M27.30S,1,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,SUB: George FOR Barlow,Substitution,,0,0,116
+161,PT00M06.90S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,165,188,25,Missed,1,,,0,v,MISS Oubre Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,117
+162,PT00M05.30S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,118
+163,PT00M01.10S,1,1610612738,BOS,1641775,Walsh,J. Walsh,27,23,4,Made,1,33,18,51,h,Walsh 4' Reverse Layup (2 PTS) (Tatum 4 AST),Made Shot,Reverse Layup Shot,1,2,119
+165,PT00M01.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,120
+165,PT00M01.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White STEAL (1 STL),,,1,0,121
+167,PT00M00.00S,1,1610612738,BOS,1628401,White,D. White,-158,236,28,Missed,1,,,0,h,MISS White 28' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,122
+168,PT00M00.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,123
+169,PT00M00.00S,1,0,,0,,,0,0,0,,0,33,18,51,,End of 1st Period (1:41 PM EST),period,end,1,0,124
+180,PT12M00.00S,2,0,,0,,,0,0,0,,0,33,18,51,,Start of 2nd Period (1:45 PM EST),period,start,0,0,125
+181,PT11M39.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,-2,293,29,Missed,1,,,0,h,MISS Pritchard 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,3,126
+182,PT11M37.00S,2,1610612738,BOS,1630568,Garza,L. Garza,0,0,0,,0,,,0,h,Garza REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,127
+184,PT11M36.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,128
+186,PT11M36.00S,2,1610612738,BOS,1630568,Garza,L. Garza,0,0,0,,0,34,18,52,h,Garza Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,129
+187,PT11M36.00S,2,1610612738,BOS,1630568,Garza,L. Garza,0,0,0,,0,35,18,53,h,Garza Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,130
+188,PT11M25.00S,2,1610612738,BOS,1630568,Garza,L. Garza,0,0,0,,0,,,0,h,Garza S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,1,0,131
+190,PT11M25.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,35,19,54,v,George Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,132
+191,PT11M25.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,35,20,55,v,George Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,133
+192,PT11M06.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-36,112,12,Missed,1,,,0,h,MISS Brown 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,134
+193,PT11M05.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,135
+194,PT10M55.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,0,136
+196,PT10M55.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,MISS George Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,137
+197,PT10M55.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0,138
+198,PT10M55.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,35,21,56,v,George Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,1,0,139
+199,PT10M55.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,35,22,57,v,George Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,1,0,140
+200,PT10M37.00S,2,1610612738,BOS,1631248,Scheierman,B. Scheierman,-142,16,14,Made,1,37,22,59,h,Scheierman 14' Driving Floating Jump Shot (2 PTS) (Brown 2 AST),Made Shot,Driving Floating Jump Shot,1,2,141
+202,PT10M24.00S,2,1610612755,PHI,202331,George,P. George,44,14,5,Missed,1,,,0,v,MISS George 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,142
+202,PT10M24.00S,2,1610612738,BOS,1631248,Scheierman,B. Scheierman,0,0,0,,0,,,0,h,Scheierman BLOCK (1 BLK),,,1,2,143
+204,PT10M23.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,144
+206,PT10M22.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,1,0,145
+207,PT10M08.00S,2,1610612738,BOS,1630568,Garza,L. Garza,-92,264,28,Made,1,40,22,62,h,Garza 28' 3PT Jump Shot (5 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,1,3,146
+209,PT09M56.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,-147,188,24,Made,1,40,25,65,v,Edwards 24' 3PT Jump Shot (3 PTS) (Edgecombe 1 AST),Made Shot,Jump Shot,1,3,147
+211,PT09M39.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-23,158,16,Missed,1,,,0,h,MISS Brown 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,148
+212,PT09M36.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,149
+213,PT09M20.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,239,32,24,Missed,1,,,0,v,MISS Drummond 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+214,PT09M19.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,151
+215,PT08M59.00S,2,1610612738,BOS,1627759,Brown,J. Brown,2,15,2,Made,1,42,25,67,h,Brown 2' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,1,2,152
+216,PT08M44.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,-11,46,5,Missed,1,,,0,v,MISS Edwards 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,153
+217,PT08M43.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,Edwards REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,154
+218,PT08M43.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,Made,1,42,27,69,v,Edwards Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,155
+219,PT08M43.00S,2,1610612738,BOS,1630568,Garza,L. Garza,0,0,0,,0,,,0,h,Garza S.FOUL (P2.T3) (P.Fraher),Foul,Shooting,1,0,156
+221,PT08M43.00S,2,1610612738,BOS,1630568,Garza,L. Garza,0,0,0,,0,,,0,h,SUB: White FOR Garza,Substitution,,0,0,157
+222,PT08M43.00S,2,1610612738,BOS,1631248,Scheierman,B. Scheierman,0,0,0,,0,,,0,h,SUB: Queta FOR Scheierman,Substitution,,0,0,158
+223,PT08M43.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,SUB: Maxey FOR Grimes,Substitution,,0,0,159
+227,PT08M43.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,MISS Edwards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,160
+228,PT08M43.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,161
+229,PT08M25.00S,2,1610612738,BOS,1629674,Queta,N. Queta,-9,81,8,Made,1,44,27,71,h,Queta 8' Floating Jump Shot (5 PTS) (Pritchard 2 AST),Made Shot,Floating Jump shot,1,2,162
+231,PT08M12.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,-28,0,3,Made,1,44,29,73,v,Drummond 3' Reverse Layup (2 PTS) (George 1 AST),Made Shot,Reverse Layup Shot,1,2,163
+233,PT08M03.00S,2,1610612738,BOS,1627759,Brown,J. Brown,53,49,7,Made,1,46,29,75,h,Brown 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,164
+234,PT07M39.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,54,89,10,Missed,1,,,0,v,MISS Edgecombe 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,165
+235,PT07M38.00S,2,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,166
+236,PT07M21.00S,2,1610612738,BOS,1629674,Queta,N. Queta,62,7,6,Made,1,48,29,77,h,Queta 6' Floating Jump Shot (7 PTS) (Pritchard 3 AST),Made Shot,Floating Jump shot,1,2,167
+238,PT07M21.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond Violation:Defensive Goaltending (T.Maddox),Violation,Defensive Goaltending,0,0,168
+239,PT07M16.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond T.FOUL (P2.T1) (S.Foster),Foul,Technical,1,0,169
+240,PT07M16.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,49,29,78,h,Pritchard Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,1,0,170
+241,PT07M16.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,SUB: Tatum FOR Hauser,Substitution,,0,0,171
+242,PT07M16.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,SUB: Bona FOR Drummond,Substitution,,0,0,172
+245,PT07M03.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,54,51,7,Made,1,49,31,80,v,Edgecombe 7' Driving Floating Jump Shot (2 PTS) (Maxey 2 AST),Made Shot,Driving Floating Jump Shot,1,2,173
+247,PT06M50.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey P.FOUL (P1.T2) (P.Fraher),Foul,Personal,1,0,174
+249,PT06M50.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,175
+250,PT06M50.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR George,Substitution,,0,0,176
+252,PT06M40.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey S.FOUL (P2.T3) (T.Maddox),Foul,Shooting,1,0,177
+254,PT06M40.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,50,31,81,h,Brown Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,178
+255,PT06M40.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,51,31,82,h,Brown Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,179
+256,PT06M31.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-142,198,24,Missed,1,,,0,v,MISS Edgecombe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+257,PT06M28.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,181
+258,PT06M25.00S,2,1610612755,PHI,1641737,Bona,A. Bona,-28,4,3,Missed,1,,,0,v,MISS Bona 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,182
+259,PT06M24.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,183
+260,PT06M21.00S,2,1610612755,PHI,1641737,Bona,A. Bona,38,17,4,Missed,1,,,0,v,MISS Bona 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,184
+261,PT06M20.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,185
+262,PT06M06.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-13,53,5,Missed,1,,,0,h,MISS Brown 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,186
+263,PT06M05.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,187
+264,PT06M05.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,Missed,1,,,0,h,MISS Brown Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,188
+265,PT06M04.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,Edwards REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,189
+266,PT05M54.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,-186,179,26,Missed,1,,,0,v,MISS Edwards 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+267,PT05M53.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,191
+268,PT05M46.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,112,237,26,Made,1,54,31,85,h,Tatum 26' 3PT Running Pull-Up Jump Shot (13 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,192
+269,PT05M29.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,20,10,2,Missed,1,,,0,v,MISS Oubre Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,193
+270,PT05M28.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,Edwards REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,194
+289,PT05M28.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,-12,24,3,Missed,1,,,0,v,MISS Edwards 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,195
+290,PT05M27.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,Edwards REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,196
+271,PT05M15.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,-224,4,0,Missed,1,,,0,v,MISS Edwards 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+272,PT05M13.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,198
+274,PT05M04.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,SUB: George FOR Edwards,Substitution,,0,0,199
+276,PT05M02.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,221,12,0,Missed,1,,,0,h,MISS Pritchard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+277,PT05M01.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,201
+278,PT05M01.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. L.B.FOUL (P1.T4) (P.Fraher),Foul,Loose Ball,1,0,202
+280,PT04M51.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,190,169,25,Missed,1,,,0,h,MISS Tatum 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,203
+281,PT04M50.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,204
+282,PT04M39.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-4,-1,0,Made,1,54,33,87,v,Oubre Jr. Driving Layup (4 PTS) (Maxey 3 AST),Made Shot,Driving Layup Shot,1,2,205
+283,PT04M39.00S,2,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta S.FOUL (P3.T4) (P.Fraher),Foul,Shooting,1,0,206
+285,PT04M39.00S,2,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,SUB: Vucevic FOR Queta,Substitution,,0,0,207
+287,PT04M39.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,MISS Oubre Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,208
+288,PT04M37.00S,2,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,209
+291,PT04M22.00S,2,1610612738,BOS,1628401,White,D. White,26,8,3,Made,1,56,33,89,h,White 3' Driving Layup (5 PTS) (Vucevic 3 AST),Made Shot,Driving Layup Shot,1,2,210
+292,PT04M11.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,7,29,3,Missed,1,,,0,v,MISS Edgecombe 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,211
+293,PT04M10.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,212
+294,PT04M10.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard L.B.FOUL (P1.PN) (T.Maddox),Foul,Loose Ball,1,0,213
+296,PT04M10.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,MISS Bona Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,214
+297,PT04M10.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,1,0,215
+298,PT04M10.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,56,34,90,v,Bona Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,216
+299,PT03M57.00S,2,1610612738,BOS,202696,Vučević,N. Vučević,176,186,26,Missed,1,,,0,h,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,217
+300,PT03M56.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,218
+301,PT03M43.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-192,169,26,Missed,1,,,0,v,MISS Maxey 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,219
+302,PT03M41.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,220
+303,PT03M37.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,37,4,4,Missed,1,,,0,v,MISS Maxey 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,221
+305,PT03M36.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,222
+439,PT03M17.00S,2,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,223
+439,PT03M17.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe STEAL (2 STL),,,1,0,224
+309,PT03M08.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-2,-8,1,Made,1,56,36,92,v,Maxey 1' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,2,225
+310,PT02M47.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George P.FOUL (P1.PN) (S.Foster),Foul,Personal,1,0,226
+312,PT02M47.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,227
+315,PT02M47.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Hauser FOR Brown,Substitution,,0,0,228
+317,PT02M47.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,57,36,93,h,Tatum Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,229
+318,PT02M47.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,58,36,94,h,Tatum Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,230
+319,PT02M40.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,58,69,9,Missed,1,,,0,v,MISS Edgecombe 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,231
+320,PT02M39.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,232
+321,PT02M38.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,Made,1,58,38,96,v,Edgecombe Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,233
+322,PT02M38.00S,2,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic S.FOUL (P3.PN) (T.Maddox),Foul,Shooting,1,0,234
+324,PT02M38.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,58,39,97,v,Edgecombe Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,235
+325,PT02M23.00S,2,1610612738,BOS,1628401,White,D. White,-92,265,28,Missed,1,,,0,h,MISS White 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,236
+326,PT02M19.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,237
+327,PT02M11.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,13,44,5,Missed,1,,,0,v,MISS Maxey 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,238
+328,PT02M10.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,239
+330,PT02M10.00S,2,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,SUB: Garza FOR Vucevic,Substitution,,0,0,240
+332,PT02M07.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,241
+332,PT02M07.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser STEAL (1 STL),,,1,0,242
+334,PT02M03.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-6,18,2,Made,1,60,39,99,h,Tatum 2' Running Dunk (17 PTS) (Hauser 2 AST),Made Shot,Running Dunk Shot,1,2,243
+336,PT01M50.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,39,74,8,Made,1,60,41,101,v,Maxey 8' Driving Floating Jump Shot (13 PTS) (Edgecombe 2 AST),Made Shot,Driving Floating Jump Shot,1,2,244
+338,PT01M50.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,1,0,245
+340,PT01M50.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,60,42,102,v,Maxey Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,246
+344,PT01M50.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,SUB: Brown FOR Pritchard,Substitution,,0,0,247
+341,PT01M40.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown OFF.Foul (P3) (S.Foster),Foul,Offensive,1,0,248
+343,PT01M40.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,249
+346,PT01M40.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Pritchard FOR Brown,Substitution,,0,0,250
+348,PT01M26.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,158,210,26,Missed,1,,,0,v,MISS Edgecombe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+349,PT01M23.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,252
+350,PT01M14.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona P.FOUL (P3.PN) (T.Maddox),Foul,Personal,1,0,253
+352,PT01M14.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,61,42,103,h,Tatum Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,254
+353,PT01M14.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,SUB: Drummond FOR Bona,Substitution,,0,0,255
+355,PT01M14.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,62,42,104,h,Tatum Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,256
+356,PT00M59.60S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,66,66,9,Made,1,62,44,106,v,Edgecombe 9' Driving Floating Jump Shot (7 PTS) (Maxey 4 AST),Made Shot,Driving Floating Jump Shot,1,2,257
+358,PT00M41.20S,2,1610612738,BOS,1628369,Tatum,J. Tatum,153,211,26,Missed,1,,,0,h,MISS Tatum 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,258
+359,PT00M39.60S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,259
+361,PT00M32.70S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,260
+361,PT00M32.70S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum STEAL (2 STL),,,1,0,261
+363,PT00M29.40S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe S.FOUL (P2.PN) (P.Fraher),Foul,Shooting,1,0,262
+365,PT00M29.40S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,63,44,107,h,Tatum Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,263
+366,PT00M29.40S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,64,44,108,h,Tatum Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,264
+367,PT00M09.90S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,83,143,17,Made,1,64,46,110,v,Edgecombe 17' Turnaround Fadeaway (9 PTS) (Maxey 5 AST),Made Shot,Turnaround Fadeaway shot,1,2,265
+368,PT00M02.80S,2,1610612738,BOS,1630568,Garza,L. Garza,-61,254,26,Missed,1,,,0,h,MISS Garza 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+369,PT00M00.10S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,267
+370,PT00M00.00S,2,0,,0,,,0,0,0,,0,64,46,110,,End of 2nd Period (2:19 PM EST),period,end,1,0,268
+376,PT12M00.00S,3,0,,0,,,0,0,0,,0,64,46,110,,Start of 3rd Period (2:36 PM EST),period,start,1,0,269
+377,PT11M45.00S,3,1610612738,BOS,1628401,White,D. White,81,68,11,Missed,1,,,0,h,MISS White 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,270
+378,PT11M43.00S,3,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,271
+379,PT11M32.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,27,157,16,Missed,1,,,0,v,MISS Maxey 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,272
+380,PT11M31.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,273
+381,PT11M17.00S,3,1610612738,BOS,1629674,Queta,N. Queta,-5,6,1,Made,1,66,46,112,h,Queta 1' Cutting Dunk Shot (9 PTS) (White 3 AST),Made Shot,Cutting Dunk Shot,1,2,274
+383,PT10M52.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-11,28,3,Made,1,66,48,114,v,Oubre Jr. 3' Driving Finger Roll Layup (6 PTS) (Maxey 6 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,275
+385,PT10M41.00S,3,1610612738,BOS,1628401,White,D. White,-54,24,6,Made,1,68,48,116,h,White 6' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,276
+386,PT10M41.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey S.FOUL (P3.T1) (P.Fraher),Foul,Shooting,1,0,277
+388,PT10M41.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,MISS White Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,278
+389,PT10M41.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,279
+390,PT10M25.00S,3,1610612755,PHI,202331,George,P. George,36,20,4,Made,1,68,50,118,v,George 4' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,1,2,280
+391,PT10M25.00S,3,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta S.FOUL (P4.T1) (T.Maddox),Foul,Shooting,1,0,281
+393,PT10M25.00S,3,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,SUB: Vucevic FOR Queta,Substitution,,0,0,282
+395,PT10M25.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,68,51,119,v,George Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,283
+396,PT10M11.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,44,17,5,Missed,1,,,0,h,MISS Tatum 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,284
+397,PT10M10.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,285
+399,PT10M10.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,286
+400,PT10M10.00S,3,0,,398,,,0,0,0,,0,68,51,119,,Instant Replay3rd Period (2:41 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,287
+401,PT09M57.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,22,39,4,Missed,1,,,0,v,MISS Oubre Jr. 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,288
+402,PT09M56.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,289
+403,PT09M43.00S,3,1610612738,BOS,202696,Vučević,N. Vučević,-93,58,11,Missed,1,,,0,h,MISS Vucevic 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,290
+404,PT09M42.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,291
+405,PT09M28.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,228,15,0,Missed,1,,,0,v,MISS Oubre Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,292
+406,PT09M26.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,293
+408,PT09M19.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe Traveling Turnover (P2.T10),Turnover,Traveling,1,0,294
+409,PT09M01.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-112,131,17,Made,1,70,51,121,h,Brown 17' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,1,2,295
+410,PT08M39.00S,3,1610612755,PHI,202331,George,P. George,-157,217,27,Made,1,70,54,124,v,George 27' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,296
+411,PT08M24.00S,3,1610612738,BOS,1628401,White,D. White,124,250,28,Made,1,73,54,127,h,White 28' 3PT Jump Shot (10 PTS) (Brown 3 AST),Made Shot,Jump Shot,1,3,297
+413,PT08M02.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-38,113,12,Made,1,73,56,129,v,Edgecombe 12' Pullup Jump Shot (11 PTS) (Drummond 2 AST),Made Shot,Pullup Jump shot,1,2,298
+415,PT07M53.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-71,247,26,Missed,1,,,0,h,MISS Tatum 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,299
+416,PT07M52.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,300
+417,PT07M42.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,25,5,3,Missed,1,,,0,v,MISS Oubre Jr. 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,301
+418,PT07M41.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,302
+419,PT07M41.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,Made,1,73,58,131,v,Oubre Jr. Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,303
+420,PT07M12.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,235,37,24,Missed,1,,,0,h,MISS Tatum 24' 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,3,304
+421,PT07M12.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,305
+422,PT07M12.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,306
+423,PT07M00.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-131,222,26,Missed,1,,,0,v,MISS Oubre Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+424,PT06M58.00S,3,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,308
+426,PT06M45.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,SUB: Pritchard FOR Hauser,Substitution,,0,0,309
+428,PT06M33.00S,3,1610612738,BOS,1627759,Brown,J. Brown,7,156,16,Missed,1,,,0,h,MISS Brown 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,310
+429,PT06M32.00S,3,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,311
+430,PT06M30.00S,3,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,312
+430,PT06M30.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown STEAL (2 STL),,,1,0,313
+432,PT06M24.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-45,274,28,Made,1,76,58,134,h,Brown 28' 3PT Jump Shot (15 PTS) (Pritchard 4 AST),Made Shot,Jump Shot,1,3,314
+434,PT06M05.00S,3,1610612755,PHI,202331,George,P. George,112,180,21,Missed,1,,,0,v,MISS George 21' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,315
+435,PT06M04.00S,3,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,316
+436,PT05M56.00S,3,1610612738,BOS,202696,Vučević,N. Vučević,146,225,27,Made,1,79,58,137,h,Vucevic 27' 3PT Jump Shot (3 PTS) (White 4 AST),Made Shot,Jump Shot,1,3,317
+438,PT05M55.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,318
+441,PT05M39.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-67,122,14,Missed,1,,,0,v,MISS Edgecombe 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,319
+442,PT05M37.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,320
+443,PT05M24.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-1,5,1,Made,1,81,58,139,h,Tatum 1' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,1,2,321
+444,PT05M02.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-29,84,9,Missed,1,,,0,v,MISS Maxey 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,322
+445,PT05M00.00S,3,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,323
+446,PT04M51.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-6,6,1,Made,1,83,58,141,h,Brown 1' Cutting Dunk Shot (17 PTS) (White 5 AST),Made Shot,Cutting Dunk Shot,1,2,324
+448,PT04M33.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,1,0,325
+450,PT04M33.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,83,59,142,v,George Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+451,PT04M33.00S,3,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,SUB: Grimes FOR Drummond,Substitution,,0,0,327
+452,PT04M33.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,SUB: Bona FOR Oubre Jr.,Substitution,,0,0,328
+455,PT04M33.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,83,60,143,v,George Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,329
+456,PT04M13.00S,3,1610612738,BOS,1628401,White,D. White,233,35,24,Missed,1,,,0,h,MISS White 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+457,PT04M12.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,331
+458,PT04M07.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-5,8,1,Made,1,83,62,145,v,Edgecombe 1' Running Dunk (13 PTS) (Grimes 1 AST),Made Shot,Running Dunk Shot,1,2,332
+460,PT03M52.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes P.FOUL (P1.T2) (T.Maddox),Foul,Personal,1,0,333
+462,PT03M46.00S,3,1610612738,BOS,1627759,Brown,J. Brown,21,7,2,Made,1,85,62,147,h,Brown 2' Driving Layup (19 PTS) (Tatum 5 AST),Made Shot,Driving Layup Shot,1,2,334
+463,PT03M36.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,25,33,4,Made,1,85,64,149,v,Maxey 4' Driving Layup (16 PTS) (Edgecombe 3 AST),Made Shot,Driving Layup Shot,1,2,335
+464,PT03M36.00S,3,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic S.FOUL (P4.T3) (T.Maddox),Foul,Shooting,1,0,336
+467,PT03M36.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Walsh FOR Tatum,Substitution,,0,0,337
+468,PT03M36.00S,3,1610612738,BOS,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,SUB: Garza FOR Vucevic,Substitution,,0,0,338
+471,PT03M36.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,SUB: Barlow FOR George,Substitution,,0,0,339
+473,PT03M36.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,85,65,150,v,Maxey Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,340
+475,PT03M17.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-55,103,12,Missed,1,,,0,h,MISS Brown 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,341
+476,PT03M15.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,342
+477,PT03M15.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes L.B.FOUL (P2.T3) (T.Maddox),Foul,Loose Ball,1,0,343
+479,PT03M02.00S,3,1610612738,BOS,1630568,Garza,L. Garza,134,225,26,Missed,1,,,0,h,MISS Garza 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+480,PT03M00.00S,3,1610612738,BOS,1630568,Garza,L. Garza,0,0,0,,0,,,0,h,Garza REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,345
+481,PT02M55.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,162,211,27,Made,1,88,65,153,h,Pritchard 27' 3PT Jump Shot (9 PTS) (Garza 1 AST),Made Shot,Jump Shot,1,3,346
+483,PT02M32.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,163,205,26,Missed,1,,,0,v,MISS Edgecombe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,347
+484,PT02M29.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,348
+487,PT02M10.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR Edgecombe,Substitution,,0,0,349
+489,PT02M07.00S,3,1610612738,BOS,1641775,Walsh,J. Walsh,229,51,0,Missed,1,,,0,h,MISS Walsh 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+490,PT02M06.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,351
+492,PT02M04.00S,3,1610612738,BOS,1627759,Brown,J. Brown,238,18,24,Made,1,91,65,156,h,Brown 24' 3PT Jump Shot (22 PTS) (White 6 AST),Made Shot,Jump Shot,1,3,352
+494,PT01M48.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-5,49,5,Made,1,91,67,158,v,Oubre Jr. 5' Driving Finger Roll Layup (10 PTS) (Maxey 7 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,353
+496,PT01M24.00S,3,1610612738,BOS,1627759,Brown,J. Brown,85,146,17,Made,1,93,67,160,h,Brown 17' Fadeaway Jumper (24 PTS),Made Shot,Fadeaway Jump Shot,1,2,354
+497,PT01M12.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-47,125,13,Made,1,93,69,162,v,Maxey 13' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,355
+498,PT00M59.70S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,167,247,30,Missed,1,,,0,h,MISS Pritchard 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,356
+499,PT00M58.70S,3,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,357
+500,PT00M48.10S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,358
+500,PT00M48.10S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard STEAL (1 STL),,,1,0,359
+502,PT00M43.30S,3,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow S.FOUL (P1.T4) (S.Foster),Foul,Shooting,1,0,360
+504,PT00M43.30S,3,1610612738,BOS,1641775,Walsh,J. Walsh,0,0,0,,0,,,0,h,MISS Walsh Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,361
+505,PT00M43.30S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,362
+506,PT00M43.30S,3,1610612738,BOS,1630568,Garza,L. Garza,0,0,0,,0,,,0,h,SUB: Hauser FOR Garza,Substitution,,0,0,363
+507,PT00M43.30S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,SUB: Edwards FOR Bona,Substitution,,0,0,364
+510,PT00M43.30S,3,1610612738,BOS,1641775,Walsh,J. Walsh,0,0,0,,0,,,0,h,MISS Walsh Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,365
+511,PT00M43.30S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,366
+512,PT00M33.30S,3,1610612755,PHI,1630178,Maxey,T. Maxey,10,194,19,Missed,1,,,0,v,MISS Maxey 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,367
+513,PT00M32.30S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,368
+514,PT00M09.80S,3,1610612738,BOS,1627759,Brown,J. Brown,66,148,16,Made,1,95,69,164,h,Brown 16' Fadeaway Jumper (26 PTS),Made Shot,Fadeaway Jump Shot,1,2,369
+515,PT00M00.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,21,36,4,Made,1,95,71,166,v,Maxey 4' Driving Layup (21 PTS) (Oubre Jr. 1 AST),Made Shot,Driving Layup Shot,1,2,370
+517,PT00M00.00S,3,0,,515,,,0,0,0,,0,95,71,166,,Instant Replay3rd Period (3:04 PM EST),Instant Replay,Support Ruling,0,0,371
+518,PT00M00.00S,3,0,,0,,,0,0,0,,0,95,71,166,,End of 3rd Period (3:04 PM EST),period,end,1,0,372
+527,PT12M00.00S,4,0,,0,,,0,0,0,,0,95,71,166,,Start of 4th Period (3:08 PM EST),period,start,0,0,373
+528,PT11M49.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,-119,134,18,Made,1,95,73,168,v,Grimes 18' Turnaround Jump Shot (2 PTS) (Maxey 8 AST),Made Shot,Turnaround Jump Shot,1,2,374
+530,PT11M38.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard OFF.Foul (P2) (S.Foster),Foul,Offensive,1,0,375
+532,PT11M38.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,376
+533,PT11M15.00S,4,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,48,86,10,Missed,1,,,0,v,MISS Edgecombe 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,377
+534,PT11M14.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,378
+535,PT11M07.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,176,250,31,Made,1,98,73,171,h,Hauser 31' 3PT Running Pull-Up Jump Shot (9 PTS) (Tatum 6 AST),Made Shot,Running Pull-Up Jump Shot,1,3,379
+537,PT10M46.00S,4,1610612755,PHI,1631230,Barlow,D. Barlow,-27,8,3,Missed,1,,,0,v,MISS Barlow 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,380
+538,PT10M45.00S,4,1610612738,BOS,1631248,Scheierman,B. Scheierman,0,0,0,,0,,,0,h,Scheierman REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,381
+539,PT10M36.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-148,204,25,Missed,1,,,0,h,MISS Tatum 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,382
+540,PT10M34.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,383
+541,PT10M32.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,-105,234,26,Missed,1,,,0,h,MISS Hauser 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,384
+542,PT10M31.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,385
+544,PT10M23.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-26,257,26,Missed,1,,,0,h,MISS Pritchard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,386
+545,PT10M21.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,Edwards REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,387
+546,PT10M13.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,-34,29,4,Missed,1,,,0,v,MISS Edwards 4' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,388
+547,PT10M12.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,389
+548,PT10M06.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,180,184,26,Made,1,101,73,174,h,Hauser 26' 3PT Running Jump Shot (12 PTS) (Tatum 7 AST),Made Shot,Running Jump Shot,1,3,390
+550,PT09M56.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,-27,28,4,Made,1,101,75,176,v,Grimes 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,391
+551,PT09M56.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta Violation:Defensive Goaltending (S.Foster),Violation,Defensive Goaltending,0,0,392
+552,PT09M42.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,8,1,Made,1,103,75,178,h,Queta 1' Alley Oop Dunk (11 PTS) (Pritchard 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,393
+554,PT09M27.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,-69,75,10,Missed,1,,,0,v,MISS Grimes 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,394
+555,PT09M26.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,395
+556,PT09M16.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-1,-2,0,Made,1,105,75,180,h,Tatum Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,2,396
+557,PT09M16.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,397
+558,PT09M16.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,SUB: Drummond FOR Edwards,Substitution,,0,0,398
+559,PT09M16.00S,4,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR Barlow,Substitution,,0,0,399
+562,PT09M13.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey OFF.Foul (P4) (P.Fraher),Foul,Offensive,1,0,400
+564,PT09M13.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,1,0,401
+565,PT09M03.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,18,1,2,Made,1,107,75,182,h,Pritchard 2' Driving Layup (11 PTS) (Queta 1 AST),Made Shot,Driving Layup Shot,1,2,402
+567,PT08M39.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,-229,31,0,Made,1,107,78,185,v,Grimes 3PT Jump Shot (7 PTS) (Oubre Jr. 2 AST),Made Shot,Jump Shot,1,3,403
+569,PT08M20.00S,4,1610612738,BOS,1631248,Scheierman,B. Scheierman,42,59,7,Missed,1,,,0,h,MISS Scheierman 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,404
+570,PT08M19.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,405
+571,PT08M11.00S,4,1610612738,BOS,1631248,Scheierman,B. Scheierman,0,0,0,,0,,,0,h,Scheierman P.FOUL (P1.T1) (T.Maddox),Foul,Personal,1,0,406
+573,PT08M11.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,SUB: Edwards FOR Maxey,Substitution,,0,0,407
+575,PT07M56.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,34,2,3,Missed,1,,,0,v,MISS Edwards 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,408
+575,PT07M56.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta BLOCK (1 BLK),,,1,2,409
+577,PT07M55.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,410
+578,PT07M55.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,411
+579,PT07M32.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-129,235,27,Missed,1,,,0,h,MISS Pritchard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,412
+580,PT07M30.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,413
+581,PT07M15.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,414
+582,PT07M15.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Walsh FOR Tatum,Substitution,,0,0,415
+584,PT07M02.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond S.FOUL (P3.T1) (T.Maddox),Foul,Shooting,1,0,416
+586,PT07M02.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,108,78,186,h,Queta Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,417
+587,PT07M02.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,SUB: Watford FOR Drummond,Substitution,,0,0,418
+588,PT07M02.00S,4,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,SUB: Bona FOR Edgecombe,Substitution,,0,0,419
+591,PT07M02.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,109,78,187,h,Queta Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,420
+592,PT06M51.00S,4,1610612755,PHI,1641737,Bona,A. Bona,-49,64,8,Made,1,109,80,189,v,Bona 8' Floating Jump Shot (3 PTS) (Grimes 2 AST),Made Shot,Floating Jump shot,1,2,421
+596,PT06M35.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. S.FOUL (P2.T2) (S.Foster),Foul,Shooting,1,0,422
+598,PT06M35.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,MISS Pritchard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,423
+599,PT06M35.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,424
+600,PT06M35.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,110,80,190,h,Pritchard Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,425
+601,PT06M16.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-32,64,7,Missed,1,,,0,v,MISS Oubre Jr. 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,426
+602,PT06M14.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,427
+604,PT06M14.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,SUB: Terry FOR Oubre Jr.,Substitution,,0,0,428
+606,PT06M06.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,Edwards P.FOUL (P1.T3) (T.Maddox),Foul,Personal,1,0,429
+608,PT05M54.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,-91,242,26,Missed,1,,,0,h,MISS Hauser 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,430
+609,PT05M52.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,431
+610,PT05M52.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta L.B.FOUL (P5.T2) (S.Foster),Foul,Loose Ball,1,0,432
+612,PT05M52.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,SUB: Garza FOR Queta,Substitution,,0,0,433
+614,PT05M33.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,-71,88,11,Made,1,110,82,192,v,Edwards 11' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,434
+615,PT05M11.00S,4,1610612738,BOS,1641775,Walsh,J. Walsh,-167,200,26,Missed,1,,,0,h,MISS Walsh 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+616,PT05M09.00S,4,1610612755,PHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,436
+617,PT05M03.00S,4,1610612755,PHI,1630570,Watford,T. Watford,23,8,2,Missed,1,,,0,v,MISS Watford 2' Running Layup,Missed Shot,Running Layup Shot,1,2,437
+618,PT05M02.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,438
+619,PT04M56.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,Edwards S.FOUL (P2.T4) (S.Foster),Foul,Shooting,1,0,439
+621,PT04M56.00S,4,1610612738,BOS,1630568,Garza,L. Garza,0,0,0,,0,111,82,193,h,Garza Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,440
+623,PT04M56.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,441
+624,PT04M56.00S,4,1610612738,BOS,1630568,Garza,L. Garza,0,0,0,,0,112,82,194,h,Garza Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,442
+625,PT04M44.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,-108,78,13,Missed,1,,,0,v,MISS Grimes 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,443
+626,PT04M42.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,444
+627,PT04M36.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,445
+628,PT04M23.00S,4,1610612755,PHI,1631207,Terry,D. Terry,58,28,6,Missed,1,,,0,v,MISS Terry 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,446
+629,PT04M22.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,447
+630,PT04M16.00S,4,1610612738,BOS,1641775,Walsh,J. Walsh,38,27,5,Missed,1,,,0,h,MISS Walsh 5' Running Layup,Missed Shot,Running Layup Shot,1,2,448
+631,PT04M14.00S,4,1610612755,PHI,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,449
+632,PT04M10.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser S.FOUL (P2.T3) (S.Foster),Foul,Shooting,1,0,450
+634,PT04M10.00S,4,1610612755,PHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,MISS Terry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,451
+635,PT04M10.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0,452
+636,PT04M10.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,SUB: Harper Jr. FOR Hauser,Substitution,,0,0,453
+637,PT04M10.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,SUB: Walker FOR Edwards,Substitution,,0,0,454
+638,PT04M10.00S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,SUB: Barlow FOR Bona,Substitution,,0,0,455
+642,PT04M10.00S,4,1610612755,PHI,1631207,Terry,D. Terry,0,0,0,,0,112,83,195,v,Terry Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,456
+643,PT03M57.00S,4,1610612738,BOS,1641775,Walsh,J. Walsh,234,59,24,Made,1,115,83,198,h,Walsh 24' 3PT Jump Shot (5 PTS) (Pritchard 6 AST),Made Shot,Jump Shot,1,3,457
+645,PT03M41.00S,4,1610612755,PHI,1631207,Terry,D. Terry,188,180,26,Missed,1,,,0,v,MISS Terry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+646,PT03M39.00S,4,1610612738,BOS,1631248,Scheierman,B. Scheierman,0,0,0,,0,,,0,h,Scheierman REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,459
+647,PT03M23.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-146,215,26,Missed,1,,,0,h,MISS Pritchard 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,460
+648,PT03M22.00S,4,1610612755,PHI,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,461
+649,PT03M11.00S,4,1610612755,PHI,1631230,Barlow,D. Barlow,23,-9,2,Made,1,115,85,200,v,Barlow 2' Reverse Layup (4 PTS) (Terry 1 AST),Made Shot,Reverse Layup Shot,1,2,462
+651,PT02M52.00S,4,1610612738,BOS,1631199,Harper Jr.,R. Harper Jr.,16,-1,2,Made,1,117,85,202,h,Harper Jr. 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,463
+652,PT02M42.00S,4,1610612755,PHI,1631230,Barlow,D. Barlow,31,10,3,Missed,1,,,0,v,MISS Barlow 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,464
+653,PT02M41.00S,4,1610612738,BOS,1641775,Walsh,J. Walsh,0,0,0,,0,,,0,h,Walsh REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,465
+654,PT02M32.00S,4,1610612738,BOS,1631199,Harper Jr.,R. Harper Jr.,-227,37,0,Made,1,120,85,205,h,Harper Jr. 3PT Jump Shot (5 PTS) (Walsh 1 AST),Made Shot,Jump Shot,1,3,466
+656,PT02M15.00S,4,1610612755,PHI,1630570,Watford,T. Watford,-4,22,2,Made,1,120,87,207,v,Watford 2' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,467
+657,PT01M54.00S,4,1610612738,BOS,1631248,Scheierman,B. Scheierman,185,241,30,Missed,1,,,0,h,MISS Scheierman 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,468
+658,PT01M52.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,469
+659,PT01M43.00S,4,1610612755,PHI,1630570,Watford,T. Watford,38,31,5,Made,1,120,89,209,v,Watford 5' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,470
+660,PT01M30.00S,4,1610612738,BOS,1630568,Garza,L. Garza,150,224,27,Missed,1,,,0,h,MISS Garza 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,471
+661,PT01M28.00S,4,1610612755,PHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,472
+662,PT01M23.00S,4,1610612755,PHI,1630570,Watford,T. Watford,-10,11,1,Made,1,120,91,211,v,Watford 1' Running Layup (6 PTS) (Terry 2 AST),Made Shot,Running Layup Shot,1,2,473
+664,PT01M02.00S,4,1610612738,BOS,1631248,Scheierman,B. Scheierman,173,288,34,Missed,1,,,0,h,MISS Scheierman 34' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,474
+665,PT01M01.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,475
+667,PT01M01.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,476
+668,PT01M01.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,SUB: Gonzalez FOR Pritchard,Substitution,,0,0,477
+670,PT00M49.80S,4,1610612755,PHI,1631230,Barlow,D. Barlow,-42,21,5,Missed,1,,,0,v,MISS Barlow 5' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,478
+670,PT00M49.80S,4,1610612738,BOS,1642864,González,H. González,0,0,0,,0,,,0,h,Gonzalez BLOCK (1 BLK),,,1,2,479
+672,PT00M48.80S,4,1610612738,BOS,1641775,Walsh,J. Walsh,0,0,0,,0,,,0,h,Walsh REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,480
+673,PT00M44.70S,4,1610612738,BOS,1631248,Scheierman,B. Scheierman,206,145,25,Made,1,123,91,214,h,Scheierman 25' 3PT Running Jump Shot (5 PTS) (Walsh 2 AST),Made Shot,Running Jump Shot,1,3,481
+675,PT00M38.10S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,191,153,24,Missed,1,,,0,v,MISS Grimes 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,482
+676,PT00M36.50S,4,1610612738,BOS,1642864,González,H. González,0,0,0,,0,,,0,h,Gonzalez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,483
+678,PT00M11.60S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,484
+679,PT00M00.00S,4,0,,0,,,0,0,0,,0,123,91,214,,End of 4th Period (3:35 PM EST),period,end,1,0,485
